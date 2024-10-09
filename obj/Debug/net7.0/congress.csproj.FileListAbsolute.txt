@@ -1,0 +1,14 @@
+/home/eig520/Desktop/csprojects/congress/bin/Debug/net7.0/congress
+/home/eig520/Desktop/csprojects/congress/bin/Debug/net7.0/congress.deps.json
+/home/eig520/Desktop/csprojects/congress/bin/Debug/net7.0/congress.runtimeconfig.json
+/home/eig520/Desktop/csprojects/congress/bin/Debug/net7.0/congress.dll
+/home/eig520/Desktop/csprojects/congress/bin/Debug/net7.0/congress.pdb
+/home/eig520/Desktop/csprojects/congress/obj/Debug/net7.0/congress.GeneratedMSBuildEditorConfig.editorconfig
+/home/eig520/Desktop/csprojects/congress/obj/Debug/net7.0/congress.AssemblyInfoInputs.cache
+/home/eig520/Desktop/csprojects/congress/obj/Debug/net7.0/congress.AssemblyInfo.cs
+/home/eig520/Desktop/csprojects/congress/obj/Debug/net7.0/congress.csproj.CoreCompileInputs.cache
+/home/eig520/Desktop/csprojects/congress/obj/Debug/net7.0/congress.dll
+/home/eig520/Desktop/csprojects/congress/obj/Debug/net7.0/refint/congress.dll
+/home/eig520/Desktop/csprojects/congress/obj/Debug/net7.0/congress.pdb
+/home/eig520/Desktop/csprojects/congress/obj/Debug/net7.0/congress.genruntimeconfig.cache
+/home/eig520/Desktop/csprojects/congress/obj/Debug/net7.0/ref/congress.dll
